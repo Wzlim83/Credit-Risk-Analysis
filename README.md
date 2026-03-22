@@ -126,4 +126,5 @@ A **DAX measure** was created to calculate the number of **High Risk borrowers**
 
 ## 📸 Dashboard Preview
 
-*(Add a screenshot of your Power BI dashboar*
+<img width="1293" height="647" alt="image" src="https://github.com/user-attachments/assets/4eb7b98b-48df-4fff-baac-5467d45709d5" />
+
